@@ -1,0 +1,10 @@
+width 30
+height 12
+
+# Добавлено: маркер и цвет для пустой местности
+EMPTY ▒ 90
+
+PLAYER ▼ 32
+BOSS ☓ 31
+TOUN ⌂ 36
+KARAVAN c 33
